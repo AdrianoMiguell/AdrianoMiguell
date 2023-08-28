@@ -6,7 +6,7 @@
 
   <div color="red">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adrianomiguell&theme=dark&hide_border=true&border_radius=4.1&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adrianomiguell&theme=tokyonight-duo&hide_border=true&border_radius=4.1&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
   </div>
 
