@@ -12,16 +12,23 @@
 
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" style="margin: 10;" alt="Adriano-CShap" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<div align="center">
   
-  <img align="center" alt="Adriano-php" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  ``` Used Languages ```
+
+</div>
+
+<div style="display: inline_block" align="center">
   
-  <img align="center" alt="Adriano-laravel" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="center" alt="Adriano-html5" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Adriano-css3" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Adriano-js" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Adriano-dotnet" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img align="center" alt="Adriano-bootstrap" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+  <img align="center" style="margin: 10;" alt="Adriano-CShap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  
+  <img align="center" alt="Adriano-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    
+  <img align="center" alt="Adriano-laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Adriano-html5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Adriano-css3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Adriano-js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Adriano-dotnet" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img align="center" alt="Adriano-bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
               
 </div>
