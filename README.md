@@ -1,4 +1,13 @@
-## Olá, eu sou Adriano Miguel, estou aprendendo mais sobre desenvolvimento web e tecnologia!
+<div align="center">
+    <h1>Hello World!</h1>
+</div>
+
+<div align="center">
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=My+name+is+Adriano+Miguel;I+really+like+programming;and+solving+challenges)](https://git.io/typing-svg)
+
+</div>
+  
 <div align="center">
   <a href="https://github.com/AdrianoMiguell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMiguell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
