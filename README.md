@@ -1,4 +1,4 @@
-# Adriano Miguel
+![Adriano miguel](https://github.com/AdrianoMiguell/AdrianoMiguell/blob/main/banner-my-github2.png)
 
 <div align="center">
    
@@ -8,6 +8,7 @@
 
 
 ## Stars and Contribui
+
 
 <div align="center">
   <a href="https://github.com/AdrianoMiguell">
@@ -20,13 +21,9 @@
   
 </div>
 
-## Languages
- 
-<div align="center"> 
-    
-``` Used Languages ```
-    
-</div>
+## Used Languages
+
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="Adriano-CShap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Adriano-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -38,8 +35,6 @@
   <img align="center" alt="Adriano-laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="Adriano-dotnet" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />           
 </div>
-
----
 
 <div align="center">
   <a href="https://github.com/AdrianoMiguell">
