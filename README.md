@@ -1,3 +1,5 @@
+# Adriano Miguel
+
 <div align="center">
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&width=600&height=100&lines=Hello+World!;My+name+is+Adriano+Miguel;I+really+like+programming;and+solving+challenges)](https://git.io/typing-svg)
