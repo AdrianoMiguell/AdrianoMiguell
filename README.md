@@ -44,7 +44,7 @@
         <img align="center" width="75" alt="Adriano-CShap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       </td>
         <td  align='center' width="250">
-         <img align="center" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+         <img align="center" width="115" alt="Adriano-kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
       </td>
       <td  align='center' width="250">
          <img align="center" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -55,7 +55,7 @@
    </tr>
    <tr>
       <td  align='center' width="250">
-        <img align="center" width="95" alt="Adriano-laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+        <img align="center" width="75" alt="Adriano-laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
       </td>
       <td  align='center' width="250">
          <img align="center" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
